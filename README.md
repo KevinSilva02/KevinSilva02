@@ -4,8 +4,8 @@
 [![Gmail Badge](https://img.shields.io/badge/-kevinks1973@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:kevinks1973@gmail.com)](mailto:kevinks1973@gmail.com)
 
 <div>
-  <img height="240em" src="https://github-readme-stats.vercel.app/api?username=KevinSilva02&show_icons=true&theme=dark&include_all_commits=true&count_private=true" />
-  <img height="240em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KevinSilva02&layout=compact&langs_count=12&theme=dark" />
+  <img height="200em" src="https://github-readme-stats.vercel.app/api?username=KevinSilva02&show_icons=true&theme=dark&include_all_commits=true&count_private=true" />
+  <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KevinSilva02&layout=compact&langs_count=12&theme=dark" />
 </div>
 
 ## Tecnologia que uso no dia a dia
